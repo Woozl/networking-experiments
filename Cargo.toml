@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "basic-http/client",
+    "basic-http/server",
+]
