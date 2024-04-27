@@ -49,7 +49,6 @@ fn handle_connection(mut stream: TcpStream) -> Result<(), Box<dyn std::error::Er
 
                     stream.write_all(response.as_slice())?;
                     stream.shutdown(Shutdown::Both)?;
-                    break;
                 }
             }
             Err(e) => {
@@ -58,8 +57,6 @@ fn handle_connection(mut stream: TcpStream) -> Result<(), Box<dyn std::error::Er
             }
         }
     }
-
-    Ok(())
 }
 
 const NOT_FOUND_RESPONSE: &str = "\
