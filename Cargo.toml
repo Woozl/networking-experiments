@@ -3,5 +3,6 @@ resolver = "2"
 
 members = [
     "basic-http/client",
-    "basic-http/server",
+    "basic-http/server", 
+    "http-file-server",
 ]

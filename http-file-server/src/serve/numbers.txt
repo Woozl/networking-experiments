@@ -1,0 +1,12 @@
+1. Pi (π): Approximately 3.14159
+2. Euler's Number (e): Approximately 2.71828
+3. The Golden Ratio (φ): Approximately 1.61803
+4. Avogadro's Number: 6.022 x 10^23
+5. Speed of Light in Vacuum (c): 299,792,458 meters per second
+6. Gravitational Constant (G): 6.674 x 10^-11 m^3 kg^-1 s^-2
+7. Planck Constant (h): 6.626 x 10^-34 Joule seconds
+8. Absolute Zero: -273.15 degrees Celsius
+9. The Answer to Life, the Universe, and Everything: 42
+10. Number of Chromosomes in a Human: 46
+11. Zero (0): The additive identity of integers
+12. One (1): The multiplicative identity
