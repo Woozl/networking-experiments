@@ -11,5 +11,9 @@ name = "http-file-server"
 version = "0.1.0"
 
 [[package]]
+name = "nist-time-client"
+version = "0.1.0"
+
+[[package]]
 name = "server"
 version = "0.1.0"
